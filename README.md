@@ -1,6 +1,6 @@
 # InnovaSoft
 
-![InnovaSoft Banner]([link_para_imagem_banner.jpg](https://i.ibb.co/yRRJrM6/a-sleek-and-modern-logo-design-for-innovasoft-a-co-v-QMBRtwa-TS20k9hhql4v-Q-12-IPNId-DQMCg-Ighr-HXGE.jpg))
+<img src="https://i.ibb.co/yRRJrM6/a-sleek-and-modern-logo-design-for-innovasoft-a-co-v-QMBRtwa-TS20k9hhql4v-Q-12-IPNId-DQMCg-Ighr-HXGE.jpg" alt="InnovaSoft Banner" width="600">
 
 ## Descrição
 
